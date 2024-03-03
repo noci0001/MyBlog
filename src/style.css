@@ -74,7 +74,7 @@ html {
   font: 100%/1.5 sans-serif;
   word-wrap: break-word;
   margin: 0 auto;
-  padding: 1.5em;
+  /* padding: 1.5em; */
 }
 
 /* Set core root defaults */
@@ -318,7 +318,7 @@ section,
 
 .snippet {
   display: grid;
-  gap: 1em;
+  gap: 0em;
   grid-template-areas:
     "image"
     "title"

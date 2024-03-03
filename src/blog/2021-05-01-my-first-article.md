@@ -23,7 +23,7 @@ Being out of your comfort zone means that the amount of stress you will be subje
 <div style="padding: 2.5rem; display:grid; grid-template-columns: 1fr 1fr;
 ">
 <img width={{"800px"}} src={{"/assets/blog/meme1.jpg"}}></img>
-<p>*RIP to my work laptop that passed away a few hours into the hackathon. For some reason, the entire GNOME desktop environment was removed after I took a break from working with the kuksa-client to establish a connection with the VR headset.</p>
+<p style="width:500px;">*RIP to my work laptop that passed away a few hours into the hackathon. For some reason, the entire GNOME desktop environment was removed after I took a break from working with the kuksa-client to establish a connection with the VR headset.</p>
 </div>
 
 

@@ -6,7 +6,7 @@ layout: 'base.njk'
 <main>
 
 
-<ul role="list" class="articles__list flow" style="background-color:white; margin-left:25%;"><li>
+<ul role="list" class="articles__list flow" style="background-color:white; margin-left:10%;"><li>
   <h2 class="section-title text-center" style="padding:5rem; font-size:5rem;">Featured articles</h2>
   {%- for post in collections.post | reverse -%}
     {% include 'article-snippet-for-blog.njk' %}
